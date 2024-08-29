@@ -8,4 +8,6 @@ The purpose of this project is to correlate the energy cost in cents/kWh with va
 
 ## Method
 ---
-1. Acquired energy cost data per zipcode from the Department of Energy (DOE)
+1. Acquired energy cost data per zip code from the Department of Energy (DOE)
+2. Acquired State Population info from 2020 Decennial Census
+3. Data Cleanup
