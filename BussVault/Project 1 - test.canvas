@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"373eeebba985ce27","x":-140,"y":80,"width":250,"height":60,"color":"1","type":"text","text":"my new canvas"},
-		{"id":"1eefe7d1d2c5562b","x":-500,"y":-160,"width":250,"height":60,"type":"text","text":"hey nick"}
-	],
-	"edges":[
-		{"id":"ff8bef08be93f150","fromNode":"373eeebba985ce27","fromSide":"top","toNode":"1eefe7d1d2c5562b","toSide":"right"}
-	]
-}
