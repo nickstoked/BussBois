@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"2c7146e85f1070af","type":"text","text":"","x":480,"y":50,"width":250,"height":60},
+		{"id":"4e9c96b237b19c89","type":"text","text":"## Source Data (1) \nU.S. Electric Utility Companies and Rates: Look-up by Zipcode (2020)","x":20,"y":-320,"width":460,"height":140,"color":"2"},
+		{"id":"6668f6c2832f704c","type":"file","file":"Project Outlines/Energy Cost Analysis/Energy Cost Analysis - Scope.md","x":-880,"y":-360,"width":460,"height":580}
+	],
+	"edges":[
+		{"id":"d834c6d1739cf6dd","fromNode":"4e9c96b237b19c89","fromSide":"bottom","toNode":"2c7146e85f1070af","toSide":"top"}
+	]
+}
