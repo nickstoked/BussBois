@@ -22,6 +22,7 @@ with open('source_data/2020_state_population/DECENNIALCD1182020.P1-2024-08-29T00
 dir = Path.cwd()
 file = Path.joinpath(dir,'source_data','2020_state_population','scrubbed_census.csv')
 with open(file,'w+') as scrubbed:
+    scrubbed.write(f'State,Population\n')
     for key in dict:
         scrubbed.write(f'{key},{dict[key]}\n')
 
