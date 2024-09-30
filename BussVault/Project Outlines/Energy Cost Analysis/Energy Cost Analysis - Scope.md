@@ -15,15 +15,15 @@ We will cross reference various data sets in attempts to correlate various facto
 - Cost vs Household Income
 - Cost vs Interconnection
 
-## Method
+## Methodology
 ---
 1. Acquire:
-	1. Energy cost data per zip code from the Department of Energy (DOE)
-	2. State Population info from 2020 Decennial Census
-	3. State sq. mileage
-	4. Demographic Information
-	5. Political Climate or Representation
-	6. Grid Interconnection States List
+	- [ ] Energy cost data per zip code from the Department of Energy (DOE)
+	1. State Population info from 2020 Decennial Census
+	2. State sq. mileage
+	3. Demographic Information
+	4. Political Climate or Representation
+	5. Grid Interconnection States List
 2. Data Cleanup
 3. Comparison and data visualization
 4. Conclusions and correlations
