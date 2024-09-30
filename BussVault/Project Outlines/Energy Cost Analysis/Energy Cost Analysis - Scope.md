@@ -14,17 +14,19 @@ We will cross reference various data sets in attempts to correlate various facto
 - Cost vs % rural or city dwelling
 - Cost vs Household Income
 - Cost vs Interconnection
+- Average Energy use per meter by state
 
 ## Methodology
 ---
 1. Acquire:
-	- [ ] Energy cost data per zip code from the Department of Energy (DOE)
-	1. State Population info from 2020 Decennial Census
-	2. State sq. mileage
-	3. Demographic Information
-	4. Political Climate or Representation
-	5. Grid Interconnection States List
+	- [x] Energy cost data per zip code from the Department of Energy (DOE)
+	- [x] State Population info from 2020 Decennial Census
+	- [ ] State sq. mileage
+	- [ ] Demographic Information
+	- [ ] Political Climate or Representation
+	- [ ] Grid Interconnection States List
 2. Data Cleanup
-3. Comparison and data visualization
-4. Conclusions and correlations
+3. Correlation
+4. Data Visualization
+5. Conclusions and correlations
 
