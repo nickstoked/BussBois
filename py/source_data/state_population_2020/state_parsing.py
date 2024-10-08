@@ -1,8 +1,8 @@
-def States():
+def states_abbrev():
     
     from pathlib import Path
     
-    with open('source_data/2020_state_population/State_Abbreviations.txt','r') as file:
+    with open('py/source_data/state_population_2020/State_Abbreviations.txt','r') as file:
         dict = {}
         for line in file:
             if line != '':
@@ -12,6 +12,7 @@ def States():
                     if i != '':
                         splt.append(i)     
                 state = splt[0]
+                state = state[:-1]
                 abbr = splt[1]
                 if '\n' in abbr:
                     st = ''
@@ -22,10 +23,13 @@ def States():
                             pass
                 else:
                     st = abbr
-                print(state, st)
+                # print(f'{state}, {st}')
+                dict[state] = st
+        # print(dict)
+    return dict
 
 def main():
-    States()
+    states_abbrev()
 
 if __name__ == '__main__':
     main()
