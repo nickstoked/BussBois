@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"2a2ffa7adca1201b","type":"text","text":"![[Origins#Challenges]]","x":20,"y":-540,"width":460,"height":420},
-		{"id":"cf14e00f9541a7c1","type":"text","text":"![[Origins#Staffs Parts]]","x":-640,"y":-540,"width":640,"height":940}
+		{"id":"cf14e00f9541a7c1","type":"text","text":"![[Origins#Staffs Parts]]","x":-1040,"y":-700,"width":640,"height":980},
+		{"id":"2a2ffa7adca1201b","type":"text","text":"![[Origins#Challenges]]","x":-360,"y":-700,"width":460,"height":440},
+		{"id":"d4f5f04cde243a02","x":480,"y":-380,"width":600,"height":360,"type":"text","text":""},
+		{"id":"f6b2978d0528d583","x":-1040,"y":320,"width":820,"height":584,"type":"link","url":"https://cdn.discordapp.com/attachments/1293026374113558622/1327771260024782889/DNV2eKtsoqZ3yj61qQx5SswIZBJR_gmG7H8IyAIEaVs.png?ex=679caa99&is=679b5919&hm=a97e3be86ded326a9e49ce6169dbcc348b5ba3fa5403a75309f1e11bfa3987d3&"}
 	],
 	"edges":[]
 }
