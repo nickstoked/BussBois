@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"cf14e00f9541a7c1","type":"text","text":"![[Origins#Staffs Parts]]","x":-2950,"y":-480,"width":760,"height":1000},
+		{"id":"d4f5f04cde243a02","type":"text","text":"![[Origins#Staff Upgrades]]","x":-2150,"y":-480,"width":760,"height":640,"color":"6"},
+		{"id":"37c823b688cffbd7","type":"text","text":"![[Origins#References]]","x":-3160,"y":-2800,"width":720,"height":560},
+		{"id":"27e1c5fe56bf6f9a","type":"text","text":"# Staffs","x":-2270,"y":-600,"width":160,"height":50,"color":"2"},
+		{"id":"2a2ffa7adca1201b","type":"text","text":"![[Origins#Challenges]]","x":-3540,"y":-1800,"width":480,"height":450,"color":"2"},
+		{"id":"1a89ccd3d0bcca93","type":"text","text":"![[Origins#Extra Perk Slots]]","x":-3540,"y":-1320,"width":480,"height":240,"color":"5"},
+		{"id":"2bf115d0b76db3db","type":"text","text":"# Misc.","x":-3090,"y":-1920,"width":140,"height":60,"color":"6"},
+		{"id":"4961b4880b20d2ee","x":-3020,"y":-1800,"width":490,"height":200,"color":"6","type":"text","text":"![[Origins#One-Inch Punch]]"},
+		{"id":"481761c6d4286953","x":-3010,"y":-1560,"width":480,"height":280,"color":"1","type":"text","text":"![[Origins#G-Strike]]"},
+		{"id":"102bd6eed22b3208","x":-1470,"y":-1620,"width":360,"height":200,"type":"text","text":"![[Origins#Zombie Shield Parts]]"},
+		{"id":"b4a870effcdbaaee","x":-1170,"y":-1740,"width":200,"height":60,"color":"4","type":"text","text":"# Buildables"},
+		{"id":"406c386fbd3b2ad2","x":-1030,"y":-1620,"width":360,"height":200,"type":"text","text":"![[Origins#Maxis Drone Parts]]"},
+		{"id":"facf3b96152ebc7f","x":-2348,"y":-1320,"width":578,"height":578,"type":"text","text":"![[Origins#Main Quest Easter Egg]]"}
+	],
+	"edges":[]
+}
